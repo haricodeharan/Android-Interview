@@ -4,7 +4,7 @@ A awesome android expert interview questions and answers
 > It took more than six months to draw a comprehensive and detailed set of Android interview questions from more than a dozen top-level interview warehouses and more than 200 high-quality interviews.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/android-interview-questions-and-answers.jpg">
+<img src="https://raw.githubusercontent.com/haricodeharan/Awesome-Android-Interview/master/screenshot/android-interview-questions-and-answers.jpg">
 </div>
 
 ## Foreword
@@ -33,39 +33,39 @@ Interviews have always been a hot topic of great concern. Awesome-Android-Interv
 
 ### Computer Basic Interview Questions
 
-* [Network](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Network](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Operating System](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Operating System](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Database](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Database](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ### Data Structure and Algorithm Interview Questions
 
-* [Data Structures and Algorithms](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+* [Data Structures and Algorithms](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
 
 
 ### Java Interview Questions
 
-* [Java Basics](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Java Basics](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Java Concurrency](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Java Concurrency](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Java Virtual Machine](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Java Virtual Machine](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ### Android interview questions
 
-* [Android Basics](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Android Basics](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Android Advanced](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E9%AB%98%E7%BA%A7%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Android Advanced](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E9%AB%98%E7%BA%A7%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ### Other
 
-* [Other extended interview questions (plus points)](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E5%85%B6%E5%AE%83%E6%89%A9%E5%B1%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Other extended interview questions (plus points)](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E5%85%B6%E5%AE%83%E6%89%A9%E5%B1%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [Non-technical interview questions](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E9%9D%9E%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Non-technical interview questions](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E9%9D%9E%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ### About me
@@ -76,7 +76,7 @@ Interviews have always been a hot topic of great concern. Awesome-Android-Interv
     
 ### License
 
-Copyright 2018 JsonChao
+Copyright 2018 JsonChao edited by haricodeharan
 
 Licensed under the Apache License, Version 2.0 (the "License");
 You may not use this file except in compliance with the License.
