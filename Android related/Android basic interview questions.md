@@ -1385,27 +1385,27 @@ The query database is often used in the program, but it is often not closed afte
 
 Description: Take the BaseAdapter that constructs the ListView as an example. The method is provided in the BaseAdapter: public View getView(int position, ViewconvertView, ViewGroup parent) to provide the ListView with the view object required by each item. Initially, the ListView will instantiate a certain number of view objects from the BaseAdapter based on the current screen layout, and the ListView will cache these view objects. When the ListView is scrolled up, the view object of the list item that was originally at the top is recycled and then used to construct the newest list item. This construction process is done by the getView() method. The second parameter of the getView() is the view object of the list item that is cached. (The initialized cache object has no view object and the convertView is null). It can be seen that if we do not use convertView, but re-instantiate a View object in getView() every time, it will waste time and waste memory. The process of ListView recycling the list object's view object can be viewed: android.widget.AbsListView.java --> voidaddScrapView(View scrap) method. Sample code:
 
-    Public View getView(int position, ViewconvertView, ViewGroup parent) {
-    View view = new Xxx(...);
-    ...
-    Return view;
-    }
+		Public View getView(int position, ViewconvertView, ViewGroup parent) {
+				View view = new Xxx(...);
+				...
+				Return view;
+		}
     
 Fix the sample code:
 
-    Public View getView(int position, ViewconvertView, ViewGroup parent) {
-    View view = null;
-    If (convertView != null) {
-    View = convertView;
-    Populate(view, getItem(position));
-    ...
-    } else {
-    View = new Xxx(...);
-    ...
-    }
-    Return view;
-    }
-    
+		Public View getView(int position, ViewconvertView, ViewGroup parent) {
+				View view = null;
+						If (convertView != null) {
+								View = convertView;
+								Populate(view, getItem(position));
+								...
+						} else {
+								View = new Xxx(...);
+								...
+						}
+				Return view;
+		}
+
 3.Bitmap object does not call recycle() to release memory when it is used.
 
 Description: Sometimes we will manually manipulate the Bitmap object. If a Bitmap object is compared to memory, when it is not being used, you can call the Bitmap.recycle() method to reclaim the memory occupied by the object's pixels, but this is not required. , depending on the situation. Take a look at the comments in the code:
