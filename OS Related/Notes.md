@@ -34,3 +34,6 @@ What is a [thread](http://web.archive.org/web/20100807021758/http://en.wikipedia
 - On a uni-processor system, a thread scheduling algorithm is applied and the processor is scheduled to run each thread one at a time.
 - All the threads running within a process share the same [address space](http://web.archive.org/web/20100807021758/http://en.wikipedia.org/wiki/Address_space), file descriptor, stack and other process related attributes.
 - Since the threads of a process share the same memory, synchronizing the access to the shared data withing the process gains unprecedented importance.
+
+
+https://stackoverflow.com/questions/200469/what-is-the-difference-between-a-process-and-a-thread
