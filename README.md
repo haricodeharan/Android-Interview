@@ -56,7 +56,7 @@ Interviews have always been a hot topic of great concern. Awesome-Android-Interv
 
 ### Android interview questions
 
-* [Android Basics](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [Android Basics](https://github.com/haricodeharan/Android-Interview/blob/master/Android%20related/Android%20basic%20interview%20questions.md) [Ch](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 * [Android Advanced](https://github.com/haricodeharan/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E9%AB%98%E7%BA%A7%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
